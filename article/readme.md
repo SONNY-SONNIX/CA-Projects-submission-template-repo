@@ -16,5 +16,9 @@ To begin our analysis, we loaded all the individual dataset from 2018 to 2021. I
  I conducted univariate analysis on the  combined data  which  revealed some  discrepancies such as missing values stage , sector  and HeadQuaters columns . A boxplot visualization also highlighted  some outliers on the  amount column . I filled this missing data using  mode for the  sector and stage  column . The median was used to fill missing values in the amount column . Whilst the geolocator  help to fill in the  missing values for the Headquaters columns . I continued with my bivariate  analysis , multivariate analysis and feature processing.
 
 I explored the data using different statistical and data visualization tools to identify patterns and trends in the funding received by Indian start-ups over a four-year period.  I used my analysis to answer the various questions  I related to the dataset.
-Finally I save data and uploaded it in powerBI where I plotted different graphs to provide deep understanding and insight revealed from our analysis. 
+Finally I save data and uploaded it in powerBI where I plotted different graphs to provide deep understanding and insight revealed from our analysis.. 
 
+Results:
+The  analysis revealed several key findings about start-up funding in India:
+
+Total funding received: Over the four-year period from 2018 to 2021, start-ups in India received a total of $280 billion in funding. This represents a significant increase from previous years and highlights the growing interest in the Indian start-up ecosystem. Therefore an average of $99M was invested in the Indian startup ecosystem each year from the 2018 to 2021.
