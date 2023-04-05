@@ -1,15 +1,15 @@
 # Article
 
 Please host the drafts and all the materials, including the final version, related to your article in this folder.
-
-Title:
- Crunching the Numbers: A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021.
+Crunching the Numbers: A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018–2021.
 
 Introduction:
-Over  the last 4 years, India's start-up ecosystem has been thriving, with entrepreneurs and investors equally looking for the next big idea to disrupt established industries and generate new opportunities. While concepts, creativity, and execution are necessary for a start-up to thrive, they are  inadequate  on their own. Investor – funding  is often necessary to turn those ideas into reality, grow the business, and make a long-term effect. In  this article, we will investigate the funding received by start-ups in India from 2018 to 2021, using a dataset of separate csv files containing information about the start-ups, funding amounts received, and investors..
+
+Over the last 4 years, India’s start-up ecosystem has been thriving, with entrepreneurs and investors equally looking for the next big idea to disrupt established industries and generate new opportunities. While concepts, creativity, and execution are necessary for a start-up to flourish, they are inadequate on their own. Investor — funding is often necessary to turn those ideas into reality, grow the business, and make a long-term effect. In this article, we will investigate the funding received by start-ups in India from 2018 to 2021, using a dataset of separate CSV files containing information about the start-ups, funding amounts received, and investors.
 
 Methodology:
-To conduct our analysis, we first aggregated the separate csv files for each year of funding and cleaned the data to remove any duplicates or incomplete information. We then used various statistical and data visualization tools to explore the data and identify patterns and trends in the funding received by Indian start-ups over the four-year period.
+
+To begin the analysis, I installed and imported all the required libraries for the analysis. The individual datasets for the project ranging from 2018 to 2021 were loaded into the Jupyter Notebook. I then performed Exploratory Data Analysis (EDA) commencing with a data overview on each of the datasets to gain an idea of the column names, non-null counts, and datatypes present in the datasets. I proceeded to the preprocessing phase of the project where I cleaned each of the data sets individually to remove any duplicates or incomplete information, employed the use of CrunchBase to fill some of the missing rows, and verified the datatype of each row. I then aggregated the individual CSV files for each funding year. I then dropped all columns that were of the least relevance to the analysis.
 
 To begin our analysis, we loaded all the individual dataset from 2018 to 2021. I then perfomed a dataset overview on  each of the datasets to have an idea of the column names , non-null counts and datatypes . I proceeded to the preprocessing phase of the project  where  I cleaned the data to remove any duplicates or incomplete information , employed the use of  CrunchBase to fill in the missing rows  and verified the datatype of each row . I then  aggregated  the individual csv files for each funding year. I then dropped all columns that  were of least relevance  to  the analysis. 
 
