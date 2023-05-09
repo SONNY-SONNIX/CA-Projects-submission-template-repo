@@ -21,4 +21,4 @@ Finally, I save data and uploaded it in PowerBI using Python scripting where I p
 Results:
 
 The analysis revealed several key findings about start-up funding in India:
-Total funding received: Over the four-year period from 2018 to 2021, start-ups in India received a total of $89 Trillion in funding. This represents a significant increase from previous years and highlights the growing interest in the Indian start-up ecosystem. Therefore an average of $31M was invested in the Indian startup ecosystem each year from 2018 to 2021..
+Total funding received: Over the four-year period from 2018 to 2021, start-ups in India received a total of $89 Trillion in funding. This represents a significant increase from previous years and highlights the growing interest in the Indian start-up ecosystem. Therefore an average of $31M was invested in the Indian startup ecosystem each year from 2018 to 2021...
