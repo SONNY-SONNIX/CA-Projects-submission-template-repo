@@ -71,6 +71,7 @@ ARIMA, SARIMA, Prophet, and LSTM are some time series models that can be used to
 Univariate Modelling
 
 The goal of this type of modeling is to forecast the general sales for Favorita irrespective of the product type, store number, and other exogenous effects. Therefore, I will be using only time and the previous sales values to forecast the sales. Due to the large number of data points, it is difficult to discern any changes (trends and seasonality). -I observed some sharp dips at the start of each year. I will resample the data to a weekly frequency to help observe the shape of the data more clearly.
+
 Univariate Statistical Modeling
 The Augmented Dickey-Fuller (ADF) test is commonly used in time series analysis to test for the presence of a unit root, which indicates the presence of a trend in the data. The ADF test result showed that the p-value is more than 0.05, indicating that the result is not statistically significant. This means our data is non-stationary.
 
