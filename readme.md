@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+# LP2 Classification Project 
 *short project description*
 
 ## Summary
